@@ -9,7 +9,6 @@ C:\Users\peter.LINCOLN\source\repos\ContosoCrafts\ContosoCrafts\bin\Debug\netcor
 C:\Users\peter.LINCOLN\source\repos\ContosoCrafts\ContosoCrafts\bin\Debug\netcoreapp3.0\ContosoCrafts.pdb
 C:\Users\peter.LINCOLN\source\repos\ContosoCrafts\ContosoCrafts\bin\Debug\netcoreapp3.0\ContosoCrafts.Views.dll
 C:\Users\peter.LINCOLN\source\repos\ContosoCrafts\ContosoCrafts\bin\Debug\netcoreapp3.0\ContosoCrafts.Views.pdb
-C:\Users\peter.LINCOLN\source\repos\ContosoCrafts\ContosoCrafts\obj\Debug\netcoreapp3.0\ContosoCrafts.csprojAssemblyReference.cache
 C:\Users\peter.LINCOLN\source\repos\ContosoCrafts\ContosoCrafts\obj\Debug\netcoreapp3.0\staticwebassets\ContosoCrafts.StaticWebAssets.Manifest.cache
 C:\Users\peter.LINCOLN\source\repos\ContosoCrafts\ContosoCrafts\obj\Debug\netcoreapp3.0\staticwebassets\ContosoCrafts.StaticWebAssets.xml
 C:\Users\peter.LINCOLN\source\repos\ContosoCrafts\ContosoCrafts\obj\Debug\netcoreapp3.0\ContosoCrafts.RazorAssemblyInfo.cache
@@ -128,3 +127,4 @@ C:\Users\peter.LINCOLN\source\repos\ContosoCrafts\ContosoCrafts\obj\Debug\netcor
 C:\Users\peter.LINCOLN\source\repos\ContosoCrafts\ContosoCrafts\obj\Debug\netcoreapp3.0\RazorDeclaration\ContosoCrafts.dll
 C:\Users\peter.LINCOLN\source\repos\ContosoCrafts\ContosoCrafts\obj\Debug\netcoreapp3.0\RazorDeclaration\Components\ProductList.razor.g.cs
 C:\Users\peter.LINCOLN\source\repos\ContosoCrafts\ContosoCrafts\obj\Debug\netcoreapp3.0\Razor\Components\ProductList.razor.g.cs
+C:\Users\peter.LINCOLN\source\repos\ContosoCrafts\ContosoCrafts\obj\Debug\netcoreapp3.0\ContosoCrafts.csprojAssemblyReference.cache

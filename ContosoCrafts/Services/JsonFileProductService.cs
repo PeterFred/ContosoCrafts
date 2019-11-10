@@ -51,7 +51,7 @@ namespace ContosoCrafts.Services
                 query.Ratings = ratings.ToArray();
             }
 
-            using (var outputStream = File.OpenWrite(JsonFileName))
+            using (FileStream outputStream = File.OpenWrite(JsonFileName))
             {
                 JsonSerializer.Serialize<IEnumerable<Product>>(
                     new Utf8JsonWriter(outputStream, new JsonWriterOptions
